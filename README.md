@@ -153,4 +153,4 @@ Project Link: [https://github.com/vcampos13/crud-api-back](https://github.com/vc
 [issues-shield]: https://img.shields.io/github/issues/vcampos13/crud-api-back
 [issues-url]: https://github.com/vcampos13/crud-api-back/issues
 [license-shield]: https://img.shields.io/github/license/vcampos13/crud-api-back
-[license-url]: https://github.com/vcampos13/crud-api-back/blob/master/LICENSE.txt
+[license-url]: https://github.com/vcampos13/crud-api-back/master/LICENSE.txt
