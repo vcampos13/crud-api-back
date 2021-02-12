@@ -25,7 +25,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![GNU License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
@@ -145,15 +144,13 @@ Project Link: [https://github.com/vcampos13/crud-api-back](https://github.com/vc
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/vcampos13/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/vcampos13/crud-api-back
 [contributors-url]: https://github.com/vcampos13/crud-api-back/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vcampos13/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/vcampos13/crud-api-back/network/members
-[stars-shield]: https://img.shields.io/github/stars/vcampos13/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/vcampos13/crud-api-back
+[forks-url]: https://img.shields.io/github/forks/vcampos13/crud-api-back
+[stars-shield]: https://img.shields.io/github/stars/vcampos13/crud-api-back
 [stars-url]: https://github.com/vcampos13/crud-api-back/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vcampos13/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/vcampos13/crud-api-back
 [issues-url]: https://github.com/vcampos13/crud-api-back/issues
-[license-shield]: https://img.shields.io/github/license/vcampos13/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/vcampos13/crud-api-back
 [license-url]: https://github.com/vcampos13/crud-api-back/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/vcamposin/
