@@ -84,6 +84,7 @@ The project was created with the intention of learning how to use PHP + Laravel 
 * [PHP](https://www.php.net/)
 * [Laravel](https://laravel.com/)
 * [Passport](https://github.com/laravel/passport)
+* [Laravel-Cors](https://github.com/fruitcake/laravel-cors)
 
 <!-- GETTING STARTED -->
 ## Getting Started

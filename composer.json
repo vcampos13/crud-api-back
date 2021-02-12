@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "crud-api-back",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "crud-api-back",
     "keywords": [
         "framework",
         "laravel"
