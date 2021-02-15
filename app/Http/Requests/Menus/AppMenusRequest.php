@@ -30,21 +30,6 @@ class AppMenusRequest extends FormRequest
             'icon'          => 'required|max:255',
             'title'         => 'required|max:255|unique:app_menus',
             'destination'   => 'max:255',
-            //'app_menus_id'  => 'required|max:255',
         ];
     }
-
-//    protected function failedValidation(Validator $validator)
-//    {
-//        throw new HttpResponseException(response()->json([
-//            'data'          => [],
-//            'status'        => '422',
-//            'statusText'    => 'Error',
-//            'headers'       => [],
-//            'config'        => [],
-//            'request'       => [],
-//            //'errors'    => $validator->errors(),
-//        ], 422));
-//
-//    }
 }
