@@ -26,12 +26,6 @@ class AppMenusController extends Controller
     {
         $menus = AppMenus::orderBy('title','ASC')->get();
 
-//        if(isset($request->id)){
-//            $menus = AppMenus::where('app_menus_id',$request->id)->get();
-//        } else {
-//            $menus = AppMenus::whereNull('app_menus_id')->get();
-//        }
-
         return AppMenusCollection::collection($menus);
     }
 
